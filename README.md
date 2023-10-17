@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrutiksargar" alt="hrutiksargar" /></a> </p>
 
+- 🔭 I’m currently working on **Apple-web-App-clone-using-Html-css-JavaScript**
+
 - 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [<a href="[https://github.com/HrutikSargar?tab=repositories](https://github.com/HrutikSargar?tab=repositories)" target="_blank">Click here</a>](<a href="[https://github.com/HrutikSargar?tab=repositories](https://github.com/HrutikSargar?tab=repositories)" target="_blank">Click here</a>)
