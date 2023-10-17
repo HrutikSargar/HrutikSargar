@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hrutik Sargar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrutiksargar&label=Profile%20views&color=0e75b6&style=flat" alt="hrutiksargar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrutiksargar" alt="hrutiksargar" /></a> </p>
 
+- 🌱 I’m currently learning **ReactJs**
+
+- 👨‍💻 All of my projects are available at [https://github.com/HrutikSargar?tab=repositories](https://github.com/HrutikSargar?tab=repositories)
+
 - 💬 Ask me about **java,c,cpp,Mysql,Html,Css,Javascript,React js**
 
 - 📫 How to reach me **hrutiksargar@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1tOKw_f-xzu2S8QibSRo-W_cADogwiD_S](https://drive.google.com/drive/u/0/folders/1tOKw_f-xzu2S8QibSRo-W_cADogwiD_S)
+
+- ⚡ Fun fact **I think I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
