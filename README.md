@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at <a href="[https://github.com/HrutikSargar?tab=repositories](https://github.com/HrutikSargar?tab=repositories)" target="_blank">Click here</a>
+- 👨‍💻 All of my projects are available at [<a href="[https://github.com/HrutikSargar?tab=repositories](https://github.com/HrutikSargar?tab=repositories)" target="_blank">Click here</a>](<a href="[https://github.com/HrutikSargar?tab=repositories](https://github.com/HrutikSargar?tab=repositories)" target="_blank">Click here</a>)
 
 - 💬 Ask me about **java,c,cpp,Mysql,Html,Css,Javascript,React js**
 
