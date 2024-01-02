@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Apple-web-App-clone-using-Html-css-JavaScript**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Adv.Java**
 
 - 👨‍💻 All of my projects are available at
 
