@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrutiksargar" alt="hrutiksargar" /></a> </p>
 
-- 🔭 I’m currently working on **Apple-web-App-clone-using-Html-css-JavaScript**
+- 🔭 I’m currently working on **Servlet Project**
 
 - 🌱 I’m currently learning **Servlet**
 
