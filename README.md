@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at
 
-- 💬 Ask me about **java,c,cpp,Mysql,Html,Css,Javascript,React js**
+- 💬 Ask me about **java,jdbc,servlet,Mysql,Html,Css,Javascript,React js**
 
 - 📫 How to reach me **hrutiksargar@gmail.com**
 
