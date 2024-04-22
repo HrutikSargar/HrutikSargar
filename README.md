@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **hrutiksargar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1tOKw_f-xzu2S8QibSRo-W_cADogwiD_S](https://drive.google.com/drive/u/0/folders/1tOKw_f-xzu2S8QibSRo-W_cADogwiD_S)
-
 - ⚡ Fun fact **I think I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
