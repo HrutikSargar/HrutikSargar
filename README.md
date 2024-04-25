@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Servlet Project**
 
-- 🌱 I’m currently learning **Servlet**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 👨‍💻 All of my projects are available at
 
