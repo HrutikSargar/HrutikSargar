@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SpringBoot Project**
 
-- 💬 Ask me about **java,jdbc,servlet,Mysql,Html,Css,Javascript,React js**
+- 💬 Ask me about **Backend,frontend dev , DB**
 
 - 📫 How to reach me **hrutiksargar@gmail.com**
 
