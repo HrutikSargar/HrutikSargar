@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **java,jdbc,servlet,Mysql,Html,Css,Javascript,React js**
 
-- 📫 How to reach me **hrutiksargar@gmail.com**
+- 📫 How to reach me **hrutiksargar@gmail.com**\
+
+- - 📫 How to reach me **(https://drive.google.com/file/d/1-_-ZGEttwbhTbWjyJMZipgsH9jKS4faN/view)**
 
 - ⚡ Fun fact **I think I am Funny.**
 
