@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hrutiksargar@gmail.com**\
 
-- - 📫 How to reach me **  <a href="https://drive.google.com/file/d/1-_-ZGEttwbhTbWjyJMZipgsH9jKS4faN/view">resume</a>**
+- - 📫 How to reach me   <a href="https://drive.google.com/file/d/1-_-ZGEttwbhTbWjyJMZipgsH9jKS4faN/view" target="_blank">resume</a>
 
 - ⚡ Fun fact **I think I am Funny.**
 
