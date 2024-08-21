@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrutiksargar" alt="hrutiksargar" /></a> </p>
 
-- 🔭 I’m currently working on **Servlet Project**
-
-- 🌱 I’m currently learning **Spring Framework**
-
-- 👨‍💻 All of my projects are available at
+- 🔭 I’m currently working on **SpringBoot Project**
 
 - 💬 Ask me about **java,jdbc,servlet,Mysql,Html,Css,Javascript,React js**
 
-- 📫 How to reach me **hrutiksargar@gmail.com**\
+- 📫 How to reach me **hrutiksargar@gmail.com**
 
-- - 📫 How to reach me   <a href="https://drive.google.com/file/d/1-_-ZGEttwbhTbWjyJMZipgsH9jKS4faN/view" target="_blank">resume</a>
+- 👨‍💻 How to reach me   <a href="https://drive.google.com/file/d/1-_-ZGEttwbhTbWjyJMZipgsH9jKS4faN/view" target="_blank">resume</a>
 
 - ⚡ Fun fact **I think I am Funny.**
 
